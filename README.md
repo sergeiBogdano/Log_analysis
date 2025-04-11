@@ -62,7 +62,7 @@ bash
 Редактировать
 python main.py logs/app1.log logs/app2.log logs/app3.log --report handlers
 ```
-
+https://github.com/user-attachments/assets/663be30e-9b02-4002-bea7-ce69f9483d53
 
 ### Тестирование
 Для запуска тестов используйте команду:
