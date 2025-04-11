@@ -1,0 +1,5 @@
+DEBUG /api/v1/test/
+INFO /api/v1/test/
+WARNING /api/v1/test/
+ERROR /api/v1/test/
+CRITICAL /api/v1/another_test/
